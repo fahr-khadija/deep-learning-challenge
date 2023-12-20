@@ -14,6 +14,8 @@ From Alphabet Soup’s business team, I have received a CSV containing more than
    #### ASK_AMT—Funding amount requested
    #### IS_SUCCESSFUL—Was the money used effectively
 
+With all knowledge of machine learning and neural networks, we’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
+
 ## Step 1: Preprocess the Data
 ## Step 2: Compile, Train, and Evaluate the Model
        Create a neural network model by assigning the number of input features and nodes for each layer using TensorFlow and Keras.
