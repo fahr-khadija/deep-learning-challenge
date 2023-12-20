@@ -1,11 +1,26 @@
 Report on the performance of the deep learning model  created for Alphabet Soup.
 
-## Overview of the analysis: 
+## Analysis Overview: 
+### Proposed  model
+In this analysis, the primary objective is to construct a robust deep learning model for predicting the success of funding applications within Alphabet Soup Charity. The dataset, extracted from "charity_data.csv," revolves around the "IS_SUCCESSFUL" variable, serving as the target to delineate funding outcomes.
 
+### Data Preprocessing
+   ### Target and Features
+      Targets: "IS_SUCCESSFUL"
+      Features: Inclusion of all columns, excluding "EIN" and "NAME."
+   ### Binning and Encoding
+   #### APPLICATION_TYPE Binning:
+      Aggregated applications with counts < 500 into the "Other" category.
+   #### CLASSIFICATION Binning:
+    Collated classifications with counts < 100 into the "Other" category.
+   #### Categorical Encoding:
+    Employed one-hot encoding through pd.get_dummies to transform categorical columns into numerical equivalents.
+### Compiling, Training, and Evaluating the Model
+### Summary
 
-
-## Results: 
-Model1
+## Optimisation 
+ ## Results: 
+# Model1
    ### Data Preprocessing
 
 What variable(s) are the target(s) for your model?
