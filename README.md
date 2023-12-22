@@ -20,7 +20,7 @@ With all knowledge of machine learning and neural networks, we’ll use the feat
 Preprocess the Data
 ## Step 2: 
 Compile, Train, and Evaluate the Model
-              * Create a neural network model by assigning the number of input features and nodes    for each layer using TensorFlow and Keras.
+  ##### Create a neural network model by assigning the number of input features and nodes    for each layer using TensorFlow and Keras.
               * Create the first hidden layer and choose an appropriate activation function.
               * If necessary, add a second hidden layer with an appropriate activation function.
               * Create an output layer with an appropriate activation function.
@@ -36,7 +36,7 @@ Save and export your results to an HDF5 file.Name the file AlphabetSoupCharity.h
 ##  Optimize the Model
 Using your knowledge of TensorFlow, optimize your model to achieve a target  predictive  accuracy higher than 75%.
 optimize our model:
-           Adjust the input data to ensure that no variables or outliers are causing confusion in the model, such as:
+   ##### Adjust the input data to ensure that no variables or outliers are causing confusion in the model, such as:
              * Dropping more or fewer columns.
              * Creating more bins for rare occurrences in columns.
              * Increasing or decreasing the number of values for each bin.
