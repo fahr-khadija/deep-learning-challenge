@@ -46,11 +46,12 @@ optimize our model:
              * Use different activation functions for the hidden layers.
              * Add or reduce the number of epochs to the training regimen.
 ### Optimisation parameters for each trials : 
-
+Code of the optimisation parameters
  ### ![Opt-para](https://github.com/fahr-khadija/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization/AlphabetSoupCharity_Optimization_parameter/AlphabetSoupCharity_Optimization_parameter.ipynb)
 
 ### optimisation Data processing Options
-### ![opt-data](https://github.com/fahr-khadija/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization/AlphabetSoupCharity_Optimization_parameter/AlphabetSoupCharity_Optimization_data.ipynb)
+Code of the optimisation data processing 
+### ![opt-data]https://github.com/fahr-khadija/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization/AlphabetSoupCharity_Optimization_parameter/AlphabetSoupCharity_Optimization_data.ipynb
    
 # Analysis Report
 Analysis-Report _Neural_Network_Model.pdf
