@@ -1,5 +1,5 @@
 # deep-learning-challenge
-## ![Energy](https://tharawat.org/wp-content/uploads/2022/12/Website-header-e1670259531766-2048x901.png)
+## ![Energy](https://dropinblog.net/34241363/files/featured/38-min.png)
 
 From Alphabet Soup’s business team, I have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as:
 
