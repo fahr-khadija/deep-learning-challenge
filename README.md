@@ -1,4 +1,5 @@
 # deep-learning-challenge
+## ![Energy](https://tharawat.org/wp-content/uploads/2022/12/Website-header-e1670259531766-2048x901.png)
 
 From Alphabet Soup’s business team, I have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as:
 
@@ -45,11 +46,12 @@ optimize our model:
              * Use different activation functions for the hidden layers.
              * Add or reduce the number of epochs to the training regimen.
 ### Optimisation parameters for each trials : 
-AlphabetSoupCharity_Optimization\AlphabetSoupCharity_Optimization_parameter\AlphabetSoupCharity_Optimization_parameter.ipynb
 
+ ### ![Opt-para](https://github.com/fahr-khadija/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization/AlphabetSoupCharity_Optimization_parameter/AlphabetSoupCharity_Optimization_parameter.ipynb)
 
 ### optimisation Data processing Options
-AlphabetSoupCharity_Optimization\AlphabetSoupCharity_Optimization_parameter\AlphabetSoupCharity_Optimization_data.ipynb
+### ![opt-data](https://github.com/fahr-khadija/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization/AlphabetSoupCharity_Optimization_parameter/AlphabetSoupCharity_Optimization_data.ipynb)
    
 # Analysis Report
 Analysis-Report _Neural_Network_Model.pdf
+### ![Report](https://github.com/fahr-khadija/deep-learning-challenge/blob/main/Analysis-Report%20_Neural_Network_Model.pdf)
