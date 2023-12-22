@@ -30,7 +30,8 @@ epoch = 100
 Results
 268/268 - 0s - loss: 0.5678 - accuracy: 0.7270 - 469ms/epoch - 2ms/step
 Loss: 0.5678246021270752, Accuracy: 0.7269970774650574
-      Summary
+Summary
+we have a good performance of the model with as 0.73 accuracy and Loss: 0.567
 
          
     �  Optimizations Models
