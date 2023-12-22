@@ -82,7 +82,7 @@ AlphabetSoupCharity_Optimization\AlphabetSoupCharity_Optimization_data\img\boxpl
 #keep  just 'APPLICATION_TYPE', 'CLASSIFICATION', and 'USE_CASE'
 columns_to_keep = ['APPLICATION_TYPE', 'CLASSIFICATION', 'USE_CASE', 'IS_SUCCESSFUL']
 application_df = application_df[columns_to_keep]
-
+https://github.com/fahr-khadija/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization/AlphabetSoupCharity_Optimization_data/img/boxplot3.png
 #Convert categorical data to numeric with pd.get_dummies
 #Split the data
 X = application_df_encoded.drop('IS_SUCCESSFUL', axis=1)
