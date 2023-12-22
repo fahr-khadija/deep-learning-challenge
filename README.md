@@ -47,7 +47,7 @@ optimize our model:
              * Add or reduce the number of epochs to the training regimen.
 ### Optimisation parameters for each trials : 
 Code of the optimisation parameters
- ### ![Opt-para](https://github.com/fahr-khadija/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization/AlphabetSoupCharity_Optimization_parameter/AlphabetSoupCharity_Optimization_parameter.ipynb)
+ ### ![Opt-para]https://github.com/fahr-khadija/deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization/AlphabetSoupCharity_Optimization_parameter/AlphabetSoupCharity_Optimization_parameter.ipynb
 
 ### optimisation Data processing Options
 Code of the optimisation data processing 
@@ -55,4 +55,4 @@ Code of the optimisation data processing
    
 # Analysis Report
 Analysis-Report _Neural_Network_Model.pdf
-### ![Report](https://github.com/fahr-khadija/deep-learning-challenge/blob/main/Analysis-Report%20_Neural_Network_Model.pdf)
+### ![Report]https://github.com/fahr-khadija/deep-learning-challenge/blob/main/Analysis-Report%20_Neural_Network_Model.pdf
